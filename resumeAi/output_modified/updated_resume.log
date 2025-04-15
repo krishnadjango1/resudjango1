@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.23)  13 APR 2025 09:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.2.23)  15 APR 2025 10:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -241,8 +241,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count291
 \l__pdf_internal_box=\box51
 )
-(C:\Users\krish\OneDrive\Desktop\DjangoProject\resumeAi\output_modified\updated
-_resume.aux)
+(C:\Users\krish\OneDrive\Desktop\DjangoProject_latest\resumeAi\output_modified\
+updated_resume.aux)
 \openout1 = `updated_resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -325,10 +325,10 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 )) (C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 3.
 
-(C:\Users\krish\OneDrive\Desktop\DjangoProject\resumeAi\output_modified\updated
-_resume.out)
-(C:\Users\krish\OneDrive\Desktop\DjangoProject\resumeAi\output_modified\updated
-_resume.out)
+(C:\Users\krish\OneDrive\Desktop\DjangoProject_latest\resumeAi\output_modified\
+updated_resume.out)
+(C:\Users\krish\OneDrive\Desktop\DjangoProject_latest\resumeAi\output_modified\
+updated_resume.out)
 \@outlinefile=\write3
 \openout3 = `updated_resume.out'.
 
@@ -342,19 +342,20 @@ LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 9.
 LaTeX Font Info:    Trying to load font information for TS1+phv on input line 9
 .
- (C:\Users\krish\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1phv.fd
+
+(C:\Users\krish\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1phv.fd
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 )
 LaTeX Font Info:    Font shape `TS1/phv/b/n' will be
 (Font)              scaled to size 13.67995pt on input line 9.
 LaTeX Font Info:    Font shape `TS1/phv/m/n' will be
 (Font)              scaled to size 9.49997pt on input line 58.
-[1
+ [1
 
 {C:/Users/krish/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Fi
-les/MiKTeX/fonts/enc/dvips/base/8r.enc}]
-(C:\Users\krish\OneDrive\Desktop\DjangoProject\resumeAi\output_modified\updated
-_resume.aux)
+les/MiKTeX/fonts/enc/dvips/base/8r.enc}] [2]
+(C:\Users\krish\OneDrive\Desktop\DjangoProject_latest\resumeAi\output_modified\
+updated_resume.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -363,19 +364,19 @@ Package rerunfilecheck Info: File `updated_resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9696 strings out of 474486
- 152242 string characters out of 5753570
+ 9697 strings out of 474486
+ 152346 string characters out of 5753570
  1948542 words of memory out of 5000000
  31870 multiletter control sequences out of 15000+600000
  571510 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 78i,5n,81p,510b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 78i,5n,81p,510b,617s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program File
 s/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on C:\Users\krish\OneDrive\Desktop\DjangoProject\resumeAi\output
-_modified\updated_resume.pdf (1 page, 31542 bytes).
+Output written on C:\Users\krish\OneDrive\Desktop\DjangoProject_latest\resumeAi
+\output_modified\updated_resume.pdf (2 pages, 32344 bytes).
 PDF statistics:
- 24 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
+ 28 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
