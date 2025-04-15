@@ -86,27 +86,27 @@ WSGI_APPLICATION = 'resumeAi.wsgi.application'
 #     }
 # }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'resumeai',
-#         'USER': 'root',
-#         'PASSWORD': 'root',  # If no password, use an empty string: ''
-#         'HOST': 'localhost',
-#         'PORT': '3306',
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'railway',
+        'NAME': 'resumeai',
         'USER': 'root',
-        'PASSWORD': 'AmmOvdRJwNKMaIpenACaIeiaztlexbbl',
-        'HOST': 'interchange.proxy.rlwy.net',
-        'PORT': '37878',
+        'PASSWORD': 'root',  # If no password, use an empty string: ''
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.mysql',
+#         'NAME': 'railway',
+#         'USER': 'root',
+#         'PASSWORD': 'AmmOvdRJwNKMaIpenACaIeiaztlexbbl',
+#         'HOST': 'interchange.proxy.rlwy.net',
+#         'PORT': '37878',
+#     }
+# }
 
 
 
