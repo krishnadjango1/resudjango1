@@ -97,16 +97,6 @@ DATABASES = {
     }
 }
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.mysql',
-#         'NAME': 'railway',
-#         'USER': 'root',
-#         'PASSWORD': 'AmmOvdRJwNKMaIpenACaIeiaztlexbbl',
-#         'HOST': 'interchange.proxy.rlwy.net',
-#         'PORT': '37878',
-#     }
-# }
 
 
 
